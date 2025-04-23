@@ -1,0 +1,6 @@
+framework module NewRelicVideoCore {
+  umbrella header "NewRelicVideoCore-umbrella.h"
+
+  export *
+  module * { export * }
+}
